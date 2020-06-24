@@ -363,11 +363,12 @@ h1, h2, h3, h4, h5, h6,
   font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-weight: 700;
   line-height: 1.2;
-  color: #343a40;
+  color: #E7D0BB;
 }
 
 h1, .h1 {
   font-size: 6rem;
+  color: #343a40;
 }
 
 h2, .h2 {
@@ -376,6 +377,7 @@ h2, .h2 {
 
 h3, .h3 {
   font-size: 2rem;
+  color: #E7D0BB;
 }
 
 h4, .h4 {
@@ -10034,6 +10036,7 @@ p.lead {
   /* text-transform: lowercase; */
   font-weight: 500;
   font-size: 1.4rem;
+  color: #343a40;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
