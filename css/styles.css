@@ -454,7 +454,7 @@ mark,
   display: inline-block;
 }
 .list-inline-item:not(:last-child) {
-  margin-right: 0.5rem;
+  margin-right: 1.5rem;
 }
 
 .initialism {
@@ -10107,7 +10107,7 @@ p.lead {
 }
 
 .dev-icons {
-  font-size: 3rem;
+  font-size: 7.5rem;
 }
 
 section.resume-section {
