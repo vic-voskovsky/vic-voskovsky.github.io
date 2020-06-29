@@ -124,9 +124,10 @@ dt {
   font-weight: 700;
 }
 
+/* NI */
 dd {
   margin-bottom: 0.5rem;
-  margin-left: 0;
+  margin-left: 0; 
 }
 
 blockquote {
@@ -454,7 +455,7 @@ mark,
   display: inline-block;
 }
 .list-inline-item:not(:last-child) {
-  margin-right: 1.5rem;
+  margin-right: 0rem;
 }
 
 .initialism {
@@ -598,13 +599,14 @@ pre code {
     max-width: 1140px;
   }
 }
+/* NI */
 .row {
   display: flex;
   flex-wrap: wrap;
   margin-right: -0.75rem;
   margin-left: -0.75rem;
 }
-
+/* NI */
 .no-gutters {
   margin-right: 0;
   margin-left: 0;
@@ -2162,7 +2164,7 @@ textarea.form-control {
   display: block;
   padding-left: 1.25rem;
 }
-
+/* NI */
 .form-check-input {
   position: absolute;
   margin-top: 0.3rem;
@@ -7587,6 +7589,7 @@ button.bg-dark:focus {
 .mb-3,
 .my-3 {
   margin-bottom: 1rem !important;
+  margin-left: 0rem;
 }
 
 .ml-3,
