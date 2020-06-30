@@ -455,7 +455,7 @@ mark,
   display: inline-block;
 }
 .list-inline-item:not(:last-child) {
-  margin-right: 0rem;
+  margin-right: 1rem;
 }
 
 .initialism {
@@ -4314,8 +4314,9 @@ input[type=button].btn-block {
 .navbar-dark .navbar-brand:hover, .navbar-dark .navbar-brand:focus {
   color: #030821;
 }
+/* Nav bar text color */
 .navbar-dark .navbar-nav .nav-link {
-  color: rgba(255, 255, 255, 0.5);
+  color: #6C757D;
 }
 .navbar-dark .navbar-nav .nav-link:hover, .navbar-dark .navbar-nav .nav-link:focus {
   color: rgba(255, 255, 255, 0.75);
